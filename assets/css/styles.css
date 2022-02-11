@@ -1,0 +1,200 @@
+@font-face {
+
+    font-family: Mifuente;
+    src: url(../Fonts/Merriweather-Light.ttf);
+
+
+}
+
+div {
+
+    font-family: Mifuente;
+    font-size: 15px;
+    font-weight: 900;
+
+}
+
+
+.indexbg {
+
+    background: url(../media/fondo1.jpg);
+    background-size: 100%;
+
+}
+
+
+nav {
+
+    background-color: rgba(255, 147, 147, 0.966);
+
+}
+
+.d-inline-block align-text-top {
+
+    display: grid;
+
+}
+
+.namelogo {
+
+    width: 200px;
+
+}
+
+.text-end {
+
+    font-size: 17px;
+
+}
+
+.a {
+
+    color: rgb(255, 193, 229);
+
+}
+
+.b {
+
+    color: rgb(255, 255, 255);
+
+}
+
+.c {
+
+    color: rgb(193, 255, 250);
+
+}
+
+#imglogo {
+
+    padding: 0;
+    margin: 0;
+
+}
+
+.row>* {
+
+    padding-left: 0px;
+    padding-right: 12px;
+
+
+}
+
+.navb {
+
+    padding-left: 0;
+    padding-right: 12px;
+
+
+}
+
+
+/* DIVS */
+
+.grid100 {
+
+    margin-top: 26px;
+    grid-template-columns: 35% 60%;
+    grid-template-rows: 120%;
+    display: grid;
+
+
+}
+
+.grid {
+
+    display: grid;
+    gap: 1em;
+    margin-left: 67px;
+
+}
+
+.grid div {
+
+    cursor: pointer;
+    text-align: justify;
+    font-size: 16px;
+    padding: 15px;
+    padding-top: 30px;
+    padding-bottom: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+
+}
+
+.grid2 {
+
+    display: grid;
+    gap: 1em;
+    margin-left: 80px;
+    background: #b2f0ff;
+    padding: 1em;
+    border-radius: 20px;
+       
+
+}
+
+
+.cuadro1{
+
+color: ivory;
+background-color: rgba(238, 144, 175, 0.938);
+
+}
+
+.cuadro1:hover{
+
+color: rgba(255, 255, 255, 0.938);
+background-color: rgba(255, 112, 112, 0.918);
+
+}
+
+.cuadro2{
+
+    color: ivory;
+    background-color: rgba(128, 207, 201, 0.932);
+    
+    }
+
+    .cuadro2:hover{
+
+        color: rgba(255, 255, 255, 0.938);
+        background-color: rgba(140, 161, 231, 0.918);
+        
+        }
+
+.cuadro3{
+
+    color: ivory;
+    background-color: rgba(145, 218, 116, 0.925);
+        
+        }
+
+        .cuadro3:hover{
+
+            color: rgba(255, 255, 255, 0.938);
+            background-color: rgba(184, 230, 112, 0.918);
+            
+            }
+
+
+.soft{
+
+text-decoration: none;
+color: rgb(255, 206, 206);
+
+}
+
+.soft:hover{
+
+color: rgb(255, 250, 182);
+
+}
+
+.form-group{
+
+margin: 20px;
+
+
+}
